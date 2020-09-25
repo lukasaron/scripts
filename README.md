@@ -6,7 +6,7 @@
 * Define alias which points to this file.
 
 #### Example
-File .bash_profile
+File ```~/.bash_profile```
 ```bash
 export PROJECT_PATH=/Users/lukasaron/Workspace/project
 alias update=/Users/lukasaron/update_git_repos.sh
